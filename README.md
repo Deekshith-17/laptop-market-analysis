@@ -67,4 +67,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## Author
 
-[Your Name] — [Class / Roll Number] — 2026
+Deekshith Kumar — B.Tech(CSE) — 2026
